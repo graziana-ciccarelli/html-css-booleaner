@@ -1,0 +1,55 @@
+header{
+    background-image: url(../imgs/pattern.png);
+    background-size: contain;
+    background-color: #4EA0FF;
+}
+
+header img{
+    display: block;
+    height: 150px;
+    width: 200;
+}
+.LinkBooleaner{
+    color: #4EA0FF;
+
+}
+
+.autore{
+    color: gray;
+}
+
+.autore span{
+    font-size: 12px
+}
+
+h1{
+    margin: 20px;
+    line-height: 160%;
+}
+
+li{
+    margin: 10px 0 10px 16px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+table thead tr{
+    background-color: #21A8E4;
+    color: white;
+}
+
+
+table th{
+    text-align: left;
+}
+
+table tbody .tr-blu{
+    background-color: #B2E4F2;
+}
+
+table thead .colonna-table{
+    width: 25%;
+}
+
